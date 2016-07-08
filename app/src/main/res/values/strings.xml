@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">행정용어사전</string>
+    <string name="enter_state_abbreviation">찾을 용어:</string>
+    <string name="fetch_state_with_json">검색</string>
+    <string name="base_uri">http://jsfkorea.com:8080/ch16/restful</string>
+    <string name="guide">1. 일련번호\n2. 구분\n3. 용어명\n4. 용어영문명\n5. 용어영문약어명\n6. 정의\n7. 주제역영\n8. 등록일\n9. 상태</string>
+</resources>
